@@ -18,7 +18,7 @@ Los documentos asociados a la ejecución de este laboratorio son:
 
 | Archivo | Descripción |
 | :--- | :--- |
-| [AYUD06-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/AYUD03-Guia%20Ejercicio.pdf) | Guía de ejercicios asociado a la ayudantía. |
+| [AYUD06-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD06-XilIn-XilOut/blob/main/AYUD06-Guia_Ejercicio.pdf) | Guía de ejercicios asociado a la ayudantía. |
 | [AYU06.zip](https://github.com/IEE2463-SEP/AYUD06-XilIn-XilOut/blob/main/AYU06.zip) | Contine el projecto en vivado desarrollado en el laboratorio |
 
 ---
