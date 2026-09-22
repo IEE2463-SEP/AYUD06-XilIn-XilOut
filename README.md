@@ -67,7 +67,7 @@ El programa en Vitis debe comunicarse con el IP-Core **únicamente** mediante `X
 
 ### 📤 Entrega y bonificación
 
-El desarrollo del ejercicio propuesto se sube a **Canvas el mismo día de la ayudantía, hasta las 14:50**. Entregarlo dentro de plazo otorga **una décima (+0,1)** en la nota del **Proyecto 1**.
+El desarrollo del ejercicio propuesto se sube a **Canvas el mismo día de la ayudantía, hasta las 14:50**. Entregarlo dentro de plazo otorga **una décima (+0,1)** en la nota del **Proyecto 1 y 2. Si, solo para esta ayudantía, el ejercicio propuesto otorga una décima a cada proyecto**.
 
 ---
 
