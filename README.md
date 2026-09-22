@@ -4,7 +4,7 @@
 
 Ayudante a cargo: **Pablo Uribe Arredondo** — parred@uc.cl
 
-Esta ayudantía se divide en dos partes bien distintas:
+Esta ayudantía se divide en dos partes:
 
 | | Qué es | Cuándo se hace |
 | :--- | :--- | :--- |
